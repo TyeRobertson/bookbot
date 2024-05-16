@@ -1,2 +1,2 @@
 # bookbot
-Command Line Application that does static analysis on books
+Command Line Application That Does Static Analysis On Books
